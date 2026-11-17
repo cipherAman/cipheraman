@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="./github_profile_banner.png" alt="Aman Kumar - Full-Stack Developer & Android Engineer" width="100%" />
 </p>
 
